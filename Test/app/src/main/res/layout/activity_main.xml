@@ -39,7 +39,7 @@
                 android:layout_height="wrap_content"
                 android:text="正在努力感知您的位置"
                 android:textColor="#ffffff"
-                android:textSize="36px" />
+                android:textSize="50px" />
 
             <LinearLayout
                 android:id="@+id/points"

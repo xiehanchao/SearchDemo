@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 points.removeAllViews();
             }
             ImageView imageView = new ImageView(MainActivity.this);
-            LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(6, 6);
+            LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(12, 12);
             params.leftMargin = 8;
             imageView.setLayoutParams(params);
             imageView.setBackgroundResource(R.drawable.a);
